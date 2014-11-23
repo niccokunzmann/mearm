@@ -1,7 +1,7 @@
 meArm
 =====
 
-A robot arm. This is a adaptation of the [original meArm](http://store.hackaday.com/products/mearm-pocket-sized-robot-arm).
+A robot arm. This is an adaptation of the [original meArm](http://store.hackaday.com/products/mearm-pocket-sized-robot-arm).
 
 It was adapted to make use of
 
